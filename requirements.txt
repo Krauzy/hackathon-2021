@@ -1,7 +1,7 @@
 pip install opencv-contrib-python
 pip install mediapipe
 pip install tensorflow
-py -m pip install Django
+pip install streamlit
 
 
 

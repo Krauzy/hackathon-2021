@@ -2,12 +2,14 @@ import cv2
 from model import FacialExpressionModel
 import numpy as np
 
+dir = ''
+
 
 class FaceExpression:
 
     def __init__(self):
-        self.facec = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-        self.model = FacialExpressionModel("model.json", "model_weights.h5")
+        self.facec = cv2.CascadeClassifier(dir + 'haarcascade_frontalface_default.xml')
+        self.model = FacialExpressionModel(dir + "model.json", dir + "model_weights.h5")
         self.font = cv2.FONT_HERSHEY_PLAIN
 
     def getExpression(self, img):
