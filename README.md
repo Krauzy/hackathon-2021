@@ -1,4 +1,4 @@
-# 🏆 2º lugar no [HACKATON ERCAS](https://sites.usp.br/sp-ercas2021/)
+# 🏆 2º lugar no [HACKATON ERCAS 2021](https://sites.usp.br/sp-ercas2021/)
 
 # Virtual Fisio - Envelhecer ficou no passado
 Uma solução capaz de realizar o rastreamento de pontos de referência, e micro-expressões de forma tanto assíncrona (por exemplo, submetendo um vídeo a solução) e/ou em tempo real (por exemplo, a aplicação informa o feedback de acertos/erros ao usuário se exercitando em tempo real). As expressões do usuário são capturadas para registrar possíveis incômodos durante os exercícios, bem como a evolução ao longo do tempo (parou de sentir os incômodos).
