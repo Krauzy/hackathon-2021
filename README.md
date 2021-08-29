@@ -1,20 +1,20 @@
 # Virtual Fisio - Envelhecer ficou no passado
 Uma solução capaz de realizar o rastreamento de pontos de referência, e micro-expressões de forma tanto assíncrona (por exemplo, submetendo um vídeo a solução) e/ou em tempo real (por exemplo, a aplicação informa o feedback de acertos/erros ao usuário se exercitando em tempo real). As expressões do usuário são capturadas para registrar possíveis incômodos durante os exercícios, bem como a evolução ao longo do tempo (parou de sentir os incômodos).
 
-![](doc/1.PNG)
-![](doc/2.PNG)
-![](doc/3.PNG)
-![](doc/4.PNG)
-![](doc/5.PNG)
-![](doc/6.PNG)
-![](doc/7.PNG)
-![](doc/8.PNG)
-![](doc/9.PNG)
-![](doc/10.PNG)
-![](doc/11.PNG)
-![](doc/12.PNG)
-![](doc/13.PNG)
-![](doc/14.PNG)
+<img src="doc/1.PNG" width="250"></img>
+<img src="doc/2.PNG" width="250"></img>
+<img src="doc/3.PNG" width="250"></img>
+<img src="doc/4.PNG" width="250"></img>
+<img src="doc/5.PNG" width="250"></img>
+<img src="doc/6.PNG" width="250"></img>
+<img src="doc/7.PNG" width="250"></img>
+<img src="doc/8.PNG" width="250"></img>
+<img src="doc/9.PNG" width="250"></img>
+<img src="doc/10.PNG" width="250"></img>
+<img src="doc/11.PNG" width="250"></img>
+<img src="doc/12.PNG" width="250"></img>
+<img src="doc/13.PNG" width="250"></img>
+<img src="doc/14.PNG" width="250"></img>
 
 ## Equipe 3:
 
