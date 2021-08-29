@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from src.auth.check_auth import get_auth, get_key, set_key
+from src.data.camera import init
 
 def render():
     auth = None
@@ -69,8 +70,9 @@ def render():
                 st.file_uploader('Selecione o vídeo', type=['mp4', 'mkv'])
             else:
                 st.write(' ')
-                if st.checkbox('⚡ Executar', False, key='check_1'):
-                    print(1)
+                run = st.checkbox('⚡ Executar', False, key='check_1')
+                if run:
+                    init(run) 
                 st.write(' ')
         with st.expander('Adução-abdução de quadril'):
             st.markdown('`Dra. Jaqueline | 23/05/2021 - 16:01`')

@@ -1,5 +1,5 @@
 import cv2
-from model import FacialExpressionModel
+from src.data.model import FacialExpressionModel
 import numpy as np
 
 dir = ''
