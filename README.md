@@ -24,7 +24,7 @@ Uma solução capaz de realizar o rastreamento de pontos de referência, e micro
  4. Arthur Monti
  5. Bruno M.
 
-### Plano de negócio -arthur 0h
+### Plano de negócio
 
 
 ### Dependências
