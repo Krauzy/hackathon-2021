@@ -1,42 +1,67 @@
-# 🏆 2º lugar no [HACKATON ERCAS 2021](https://sites.usp.br/sp-ercas2021/)
+<div align="left">
+ <kbd>
+ 🏆 2º lugar no <a href="https://sites.usp.br/sp-ercas2021/">HACKATON ERCAS 2021</a>
+ </kbd>
+</div>
+<br/>
 
-# Virtual Fisio - Envelhecer ficou no passado
-Uma solução capaz de realizar o rastreamento de pontos de referência, e micro-expressões de forma tanto assíncrona (por exemplo, submetendo um vídeo a solução) e/ou em tempo real (por exemplo, a aplicação informa o feedback de acertos/erros ao usuário se exercitando em tempo real). As expressões do usuário são capturadas para registrar possíveis incômodos durante os exercícios, bem como a evolução ao longo do tempo (parou de sentir os incômodos).
+[![Visits Badge](https://badges.pufler.dev/visits/Krauzy/hackathon-2021)](https://github.com/Krauzy/hackathon-2021)
+[![Updated Badge](https://badges.pufler.dev/updated/Krauzy/hackathon-2021)](https://github.com/Krauzy/hackathon-2021/commits/main)
 
-<img src="doc/1.PNG" width="250"></img>
-<img src="doc/2.PNG" width="250"></img>
-<img src="doc/3.PNG" width="250"></img>
-<img src="doc/4.PNG" width="250"></img>
-<img src="doc/5.PNG" width="250"></img>
-<img src="doc/6.PNG" width="250"></img>
-<img src="doc/7.PNG" width="250"></img>
-<img src="doc/8.PNG" width="250"></img>
-<img src="doc/9.PNG" width="250"></img>
-<img src="doc/10.PNG" width="250"></img>
-<img src="doc/11.PNG" width="250"></img>
-<img src="doc/12.PNG" width="250"></img>
-<img src="doc/13.PNG" width="250"></img>
-<img src="doc/14.PNG" width="250"></img>
+<div align="center">
+ <h1>Virtual Fisio 👩‍💼💻</h1>
+</div>
 
-## Equipe 3:
+Uma solução capaz de realizar o rastreamento de pontos de referência 📍, e micro-expressões 🧏‍♂️
+- 🦳 As expressões do usuário são capturadas para registrar possíveis incômodos durante os exercícios
+- 🦵 Os movimentos das articulações são detectadas, além de atributos como ``velocidade`` , ``esforço`` e ``evolução``
 
- 1. Caio K.
- 2. Luís Henrique Picinin Jandre
- 3. Gabriel Marioto
- 4. Arthur Monti
- 5. Bruno M.
+<div align="center">
+ <kbd>
+  <img src="https://github.com/Krauzy/hackaton-2021/blob/main/doc/demo.gif" width="400px">
+ </kbd>
+</div>
 
-### Plano de negócio
+## Objetivos 🎯
 
+📌 Possibilidade remota de monitoramento de pacientes
 
-### Dependências
- - pip install opencv-contrib-python
- - pip install mediapipe
- - pip install tensorflow
- - pip install streamlit
+📌 Facilidade do profissional ao lidar com pacientes
 
-### Rodando o projeto
-Após instalar as dependências execute 
+📌 Auxílio na gestão de pacientes para o profissional
 
-> streamlit run main.py
+📌 Facilidade no tratamento para os pacientes
+
+📌 Facilidade e rapidez nas consultas
+
+📌 Prevensão de problemas físicos
+
+<br/>
+
+## Dependências
+```sh
+pip install opencv-contrib-python
+pip install mediapipe
+pip install tensorflow
+pip install streamlit
+```
+| Dependência | Descrição | Refêrencia |
+| ----- | ----- | ----- |
+| OpenCV | O OpenCV fornece uma biblioteca, ferramentas e hardware otimizados para visão computacional em tempo real | [docs.opencv.org](https://docs.opencv.org/4.5.3/) |
+| MediaPipe | A MediaPipe oferece uma plataforma cruzada de código aberto e soluções de ML personalizáveis para mídia ao vivo e streaming | [mediapipe.dev](https://google.github.io/mediapipe/) |
+| TensorFlow | O TensorFlow é uma plataforma completa de código aberto para machine learning. Ele tem um ecossistema abrangente e flexível de ferramentas, bibliotecas e recursos da comunidade que permite aos pesquisadores levar adiante ML de última geração e aos desenvolvedores criar e implantar aplicativos com tecnologia de ML. | [tensorflow.org](https://www.tensorflow.org/api_docs/python/tf?hl=pt-br) |
+| Streamlit | Streamlit é uma biblioteca Python de código aberto que facilita a criação e o compartilhamento de aplicativos da web personalizados para aprendizado de máquina e ciência de dados. | [docs.streamlit.io](https://docs.streamlit.io/en/stable/) |
+
+<br/>
+
+## Contribuintes:
+[![Contributors Display](https://badges.pufler.dev/contributors/Krauzy/hackathon-2021?size=50&padding=5&bots=true)](https://github.com/Krauzy/hackathon-2021)
+
+## Init
+```py
+streamlit run main.py
+```
+
+## Licença
+[Virtual Fisio © 2021 - COPYRIGHT LICENSE](https://github.com/Krauzy/hackathon-2021/blob/main/LICENSE)
 
