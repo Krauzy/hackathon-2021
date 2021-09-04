@@ -45,7 +45,7 @@ pip install mediapipe
 pip install tensorflow
 pip install streamlit
 ```
-| Dependência | Descrição | Refêrencia |
+| Dependência | Descrição | Referência |
 | ----- | ----- | ----- |
 | OpenCV | O OpenCV fornece uma biblioteca, ferramentas e hardware otimizados para visão computacional em tempo real | [docs.opencv.org](https://docs.opencv.org/4.5.3/) |
 | MediaPipe | A MediaPipe oferece uma plataforma cruzada de código aberto e soluções de ML personalizáveis para mídia ao vivo e streaming | [mediapipe.dev](https://google.github.io/mediapipe/) |
