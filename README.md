@@ -38,7 +38,7 @@ Uma solução capaz de realizar o rastreamento de pontos de referência 📍, e 
 
 <br/>
 
-## Dependências
+## Dependências 🗃
 ```sh
 pip install opencv-contrib-python
 pip install mediapipe
@@ -54,14 +54,14 @@ pip install streamlit
 
 <br/>
 
-## Contribuintes:
+## Contribuintes 🕺
 [![Contributors Display](https://badges.pufler.dev/contributors/Krauzy/hackathon-2021?size=50&padding=5&bots=true)](https://github.com/Krauzy/hackathon-2021)
 
-## Init
+## Iniciar ⚡
 ```py
 streamlit run main.py
 ```
 
-## Licença
+## Licença 📝
 [Virtual Fisio © 2021 - COPYRIGHT LICENSE](https://github.com/Krauzy/hackathon-2021/blob/main/LICENSE)
 
