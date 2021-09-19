@@ -1,0 +1,7 @@
+
+movenet e posenet:
+    https://www.tensorflow.org/lite/examples/pose_estimation/overview
+
+openpose:
+    https://github.com/MikeOfZen/Yet-Another-Openpose-Implementation
+    https://github.com/CMU-Perceptual-Computing-Lab/openpose
